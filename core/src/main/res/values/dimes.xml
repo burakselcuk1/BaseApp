@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="card_pager_item_padding">24dp</dimen>
+    <dimen name="bottom_navigation_view_item_icon_size">36dp</dimen>
+    <dimen name="swipe_modal_corner_radius">16dp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">62dp</dimen>
+
+    <dimen name="segmented_control_horizontal_margin">2dp</dimen>
+    <dimen name="segmented_control_vertical_margin">2dp</dimen>
+    <dimen name="segmented_view_group_padding_five_dp">5dp</dimen>
+    <dimen name="segmented_view_group_layout_marginLeft_one_dp">1dp</dimen>
+
+    <dimen name="radio_button_padding_five_dp">5dp</dimen>
+    <dimen name="radio_button_conner_radius">5dp</dimen>
+    <dimen name="radio_button_stroke_border">1dp</dimen>
+    <dimen name="one_two_zero_dp">120dp</dimen>
+    <dimen name="forty_two_dp">42dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+    <dimen name="fifty_six_dp">56dp</dimen>
+    <dimen name="sixty_two_dp">62dp</dimen>
+    <dimen name="seven_two_dp">72dp</dimen>
+    <dimen name="seven_seven_dp">77dp</dimen>
+    <dimen name="one_nine_two_dp">192dp</dimen>
+    <dimen name="toolbar_height">62dp</dimen>
+    <dimen name="wallet_function_inner_corner">16dp</dimen>
+    <dimen name="wallet_function_outer_corner">16dp</dimen>
+
+    <dimen name="six_nine_dp">69dp</dimen>
+    <dimen name="two_one_dp">21dp</dimen>
+    <dimen name="touchHeight">48dp</dimen>
+    <dimen name="iconViewSize_30dp">30dp</dimen>
+    <dimen name="iconViewSize">40dp</dimen>
+    <dimen name="icon_view_size_44dp">44dp</dimen>
+    <dimen name="icon_view_size_48dp">48dp</dimen>
+    <dimen name="icon_view_size_52dp">52dp</dimen>
+    <dimen name="icon_view_size_60dp">52dp</dimen>
+    <dimen name="swipeTitleMargin">30dp</dimen>
+    <dimen name="swipeTitleHeight">64dp</dimen>
+    <dimen name="swipeItemHeight">64dp</dimen>
+    <dimen name="contact_icon_width">44dp</dimen>
+
+    <dimen name="xx_small_margin">2dp</dimen>
+    <dimen name="x_small_margin">4dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="small_margin_6dp">6dp</dimen>
+    <dimen name="normal_margin_10dp">10dp</dimen>
+    <dimen name="normal_margin_12dp">12dp</dimen>
+    <dimen name="normal_margin_14dp">14dp</dimen>
+    <dimen name="normal_margin">16dp</dimen>
+    <dimen name="shadowDynamicItemMargin">12dp</dimen>
+    <dimen name="icon_margin">32dp</dimen>
+    <dimen name="row_elevation">4dp</dimen>
+    <dimen name="row_corner">15dp</dimen>
+    <dimen name="input_masked_card_number_padding">45dp</dimen>
+    <dimen name="page_margin_dp">20dp</dimen>
+    <dimen name="page_margin_18dp">18dp</dimen>
+    <dimen name="page_margin_24dp">24dp</dimen>
+    <dimen name="page_margin_26dp">26dp</dimen>
+    <dimen name="page_margin_28dp">28dp</dimen>
+    <dimen name="page_margin_32dp">32dp</dimen>
+    <dimen name="page_margin_34dp">34dp</dimen>
+    <dimen name="page_margin_large">36dp</dimen>
+    <dimen name="button_margin_dp">10dp</dimen>
+    <dimen name="chat_money_item_margin">20dp</dimen>
+    <dimen name="circle_progress_margin_dp">10dp</dimen>
+    <dimen name="row_top_margin">5dp</dimen>
+    <dimen name="row_bottom_margin">15dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="one_half_dp">1.5dp</dimen>
+    <dimen name="two_dp">2dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="seven_dp">7dp</dimen>
+    <dimen name="button_height">54dp</dimen>
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="continue_button_width">112dp</dimen>
+    <dimen name="pin_input_height">60dp</dimen>
+    <dimen name="min_chat_input_height">44dp</dimen>
+    <dimen name="search_view_small_height">42dp</dimen>
+    <dimen name="search_view_height">44dp</dimen>
+    <dimen name="spinner_height">56dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="half_dp">0.5dp</dimen>
+    <dimen name="thirty_six_dp">36dp</dimen>
+    <dimen name="icon_view_conner_radius">28dp</dimen>
+    <dimen name="pickSlam_text_input_edit_text_layout_radius">12dp</dimen>
+    <dimen name="pickSlam_segmented_control_corner_radius">8dp</dimen>
+    <dimen name="three_nine_dp">39dp</dimen>
+    <dimen name="one_two_dot_one_eight_seven_five_dp">12.1875dp</dimen>
+    <dimen name="box_margin_dp">2dp</dimen>
+    <dimen name="headerMargin">68dp</dimen>
+    <dimen name="check_box_size">24dp</dimen>
+    <dimen name="shareOutgoingItemSectionWidth">154dp</dimen>
+    <dimen name="shareOutgoingItemSectionHeight">110dp</dimen>
+    <dimen name="withdrawMoneySectionHeight">150dp</dimen>
+    <dimen name="withdrawMoneySectionWithoutBalanceHeight">120dp</dimen>
+    <dimen name="detailInfoMarginBottomHeight">200dp</dimen>
+    <dimen name="chat_financial_item_root_padding">4dp</dimen>
+    <dimen name="chat_financial_item_root_padding_top">0dp</dimen>
+    <dimen name="chat_financial_item_root_padding_bottom">4dp</dimen>
+    <dimen name="balloonArrowSize">22dp</dimen>
+    <dimen name="balloonSize">255dp</dimen>
+    <dimen name="gold_wallet_width">210dp</dimen>
+    <dimen name="circular_progress_stroke_width">5dp</dimen>
+    <dimen name="circular_progress_padding">30dp</dimen>
+    <dimen name="circular_progress_inner_size">60dp</dimen>
+    <dimen name="circular_progress_outer_size">80dp</dimen>
+
+    <dimen name="padding_four">4dp</dimen>
+    <dimen name="padding_six">6dp</dimen>
+    <dimen name="padding_eight">8dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_sixteen">16dp</dimen>
+    <dimen name="padding_thirtysix">36dp</dimen>
+
+    <item name="line_spacing_multiplier" format="float" type="dimen">1.20</item>
+    <item name="line_spacing_multiplier_chat" format="float" type="dimen">1.25</item>
+    <item name="line_spacing_multiplier_large" format="float" type="dimen">1.30</item>
+    <item name="line_spacing_multiplier_medium" format="float" type="dimen">1.15</item>
+    <item name="line_spacing_multiplier_small" format="float" type="dimen">1.10</item>
+    <item name="line_spacing_multiplier_default" format="float" type="dimen">1.0</item>
+
+    <!--  TextInputOtpEditText Component Begin -->
+
+    <dimen name="pv_pin_view_item_size">48dp</dimen>
+    <dimen name="pv_pin_view_item_radius">12dp</dimen>
+    <dimen name="pv_pin_view_item_spacing">8dp</dimen>
+    <dimen name="pv_pin_view_item_focused_line_width">2dp</dimen>
+    <dimen name="pv_pin_view_item_next_line_width">1dp</dimen>
+    <dimen name="pv_pin_view_cursor_width">1.5dp</dimen>
+
+    <!--  TextInputOtpEditText Component End -->
+
+    <!--  Text Size Dimensions -->
+
+    <dimen name="textSize200">200sp</dimen>
+    <dimen name="textSize126">126sp</dimen>
+    <dimen name="textSize96">96sp</dimen>
+    <dimen name="textSize90">90sp</dimen>
+    <dimen name="textSize80">80sp</dimen>
+    <dimen name="textSize78">78sp</dimen>
+    <dimen name="textSize76">76sp</dimen>
+    <dimen name="textSize74">74sp</dimen>
+    <dimen name="textSize72">72sp</dimen>
+    <dimen name="textSize70">70sp</dimen>
+    <dimen name="textSize68">68sp</dimen>
+    <dimen name="textSize66">66sp</dimen>
+    <dimen name="textSize64">64sp</dimen>
+    <dimen name="textSize62">62sp</dimen>
+    <dimen name="textSize60">60sp</dimen>
+    <dimen name="textSize58">58sp</dimen>
+    <dimen name="textSize56">56sp</dimen>
+    <dimen name="textSize54">54sp</dimen>
+    <dimen name="textSize52">52sp</dimen>
+    <dimen name="textSize50">50sp</dimen>
+    <dimen name="textSize48">48sp</dimen>
+    <dimen name="textSize46">46sp</dimen>
+    <dimen name="textSize44">44sp</dimen>
+    <dimen name="textSize42">42sp</dimen>
+    <dimen name="textSize40">40sp</dimen>
+    <dimen name="textSize38">38sp</dimen>
+    <dimen name="textSize36">36sp</dimen>
+    <dimen name="textSize34">34sp</dimen>
+    <dimen name="textSize32">32sp</dimen>
+    <dimen name="textSize30">30sp</dimen>
+    <dimen name="textSize28">28sp</dimen>
+    <dimen name="textSize26">26sp</dimen>
+    <dimen name="textSize24">24sp</dimen>
+    <dimen name="textSize22">22sp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="textSize18">18sp</dimen>
+    <dimen name="textSize16">16sp</dimen>
+    <dimen name="textSize15">15sp</dimen>
+    <dimen name="textSize14">14sp</dimen>
+    <dimen name="textSize13">13sp</dimen>
+    <dimen name="textSize12">12sp</dimen>
+    <dimen name="textSize11">11sp</dimen>
+    <dimen name="textSize10">10sp</dimen>
+    <dimen name="textSize8">8sp</dimen>
+    <dimen name="textSize9">9sp</dimen>
+    <dimen name="textSize6">6sp</dimen>
+    <dimen name="textSize4">4sp</dimen>
+
+
+    <dimen name="textSizeDpi40">40dp</dimen>
+    <dimen name="textSizeDpi38">38dp</dimen>
+    <dimen name="textSizeDpi36">36dp</dimen>
+    <dimen name="textSizeDpi34">34dp</dimen>
+    <dimen name="textSizeDpi32">32dp</dimen>
+    <dimen name="textSizeDpi30">30dp</dimen>
+    <dimen name="textSizeDpi28">28dp</dimen>
+    <dimen name="textSizeDpi26">26dp</dimen>
+    <dimen name="textSizeDpi24">24dp</dimen>
+    <dimen name="textSizeDpi22">22dp</dimen>
+    <dimen name="textSizeDpi20">20dp</dimen>
+    <dimen name="textSizeDpi18">18dp</dimen>
+    <dimen name="textSizeDpi16">16dp</dimen>
+    <dimen name="textSizeSp16">16sp</dimen>
+    <dimen name="textSizeSp12">12sp</dimen>
+    <dimen name="textSizeDpi14">14dp</dimen>
+    <dimen name="textSizeDpi12">12dp</dimen>
+    <dimen name="textSizeDpi10">10dp</dimen>
+    <dimen name="textSizeDpi8">8dp</dimen>
+    <dimen name="textSizeDpi6">6dp</dimen>
+    <dimen name="textSizeDpi4">4dp</dimen>
+
+    <dimen name="textPageHeader">22sp</dimen>
+    <dimen name="textSubPageHeader">16sp</dimen>
+
+    <dimen name="textToolbarTitleSize">16sp</dimen>
+    <dimen name="textToolbarNotificationIconSize">22dp</dimen>
+    <dimen name="textToolbarDotsIconSize">36dp</dimen>
+    <dimen name="textToolbarBackIconSize">30dp</dimen>
+    <dimen name="textToolbarProfileIconSize">32dp</dimen>
+    <dimen name="textToolbarRightIconSize">20dp</dimen>
+    <dimen name="textToolbarPickSlamLogoSize">74dp</dimen>
+    <dimen name="textToolbarPickSlamLogoSplashSize">120dp</dimen>
+
+    <dimen name="textIconMenuSize">20dp</dimen>
+
+    <dimen name="textCreateCardTitleSize">@dimen/textSize24</dimen>
+    <dimen name="textCreateCardSubTitleSize">@dimen/textSize16</dimen>
+    <dimen name="textCreateCardListItemSize">@dimen/textSize14</dimen>
+    <dimen name="textIconCreateCardListItemSize">@dimen/textSizeDpi24</dimen>
+
+    <dimen name="list_item_dot_text_size">@dimen/textSizeDpi22</dimen>
+
+    <dimen name="viewpager_next_item_visible">80dp</dimen>
+    <dimen name="viewpager_current_item_horizontal_margin">20dp</dimen>
+    <dimen name="button_icon_size">24sp</dimen>
+    <dimen name="button_elevation">8sp</dimen>
+    <dimen name="add_new_item_section_height">80dp</dimen>
+
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_1">1dp</dimen>
+    <dimen name="dimen_2">2dp</dimen>
+    <dimen name="dimen_3">3dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_5">5dp</dimen>
+    <dimen name="dimen_6">6dp</dimen>
+    <dimen name="dimen_7">7dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_9">9dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_11">11dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="dimen_13">13dp</dimen>
+    <dimen name="dimen_14">14dp</dimen>
+    <dimen name="dimen_15">15dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_17">17dp</dimen>
+    <dimen name="dimen_18">18dp</dimen>
+    <dimen name="dimen_19">19dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_21">21dp</dimen>
+    <dimen name="dimen_22">22dp</dimen>
+    <dimen name="dimen_23">23dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_25">25dp</dimen>
+    <dimen name="dimen_26">26dp</dimen>
+    <dimen name="dimen_27">27dp</dimen>
+    <dimen name="dimen_28">28dp</dimen>
+    <dimen name="dimen_29">29dp</dimen>
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="dimen_31">31dp</dimen>
+    <dimen name="dimen_32">32dp</dimen>
+    <dimen name="dimen_33">33dp</dimen>
+    <dimen name="dimen_34">34dp</dimen>
+    <dimen name="dimen_35">35dp</dimen>
+    <dimen name="dimen_36">36dp</dimen>
+    <dimen name="dimen_37">37dp</dimen>
+    <dimen name="dimen_38">38dp</dimen>
+    <dimen name="dimen_39">39dp</dimen>
+    <dimen name="dimen_40">40dp</dimen>
+    <dimen name="dimen_41">41dp</dimen>
+    <dimen name="dimen_42">42dp</dimen>
+    <dimen name="dimen_43">43dp</dimen>
+    <dimen name="dimen_44">44dp</dimen>
+    <dimen name="dimen_45">45dp</dimen>
+    <dimen name="dimen_46">46dp</dimen>
+    <dimen name="dimen_47">47dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_49">49dp</dimen>
+    <dimen name="dimen_50">50dp</dimen>
+    <dimen name="dimen_51">51dp</dimen>
+    <dimen name="dimen_52">52dp</dimen>
+    <dimen name="dimen_53">53dp</dimen>
+    <dimen name="dimen_54">54dp</dimen>
+    <dimen name="dimen_55">55dp</dimen>
+    <dimen name="dimen_56">56dp</dimen>
+    <dimen name="dimen_57">57dp</dimen>
+    <dimen name="dimen_58">58dp</dimen>
+    <dimen name="dimen_59">59dp</dimen>
+    <dimen name="dimen_60">60dp</dimen>
+    <dimen name="dimen_61">61dp</dimen>
+    <dimen name="dimen_62">62dp</dimen>
+    <dimen name="dimen_63">63dp</dimen>
+    <dimen name="dimen_64">64dp</dimen>
+    <dimen name="dimen_65">65dp</dimen>
+    <dimen name="dimen_66">66dp</dimen>
+    <dimen name="dimen_67">67dp</dimen>
+    <dimen name="dimen_68">68dp</dimen>
+    <dimen name="dimen_69">69dp</dimen>
+    <dimen name="dimen_70">70dp</dimen>
+    <dimen name="dimen_71">71dp</dimen>
+    <dimen name="dimen_72">72dp</dimen>
+    <dimen name="dimen_73">73dp</dimen>
+    <dimen name="dimen_74">74dp</dimen>
+    <dimen name="dimen_75">75dp</dimen>
+    <dimen name="dimen_76">76dp</dimen>
+    <dimen name="dimen_77">77dp</dimen>
+    <dimen name="dimen_78">78dp</dimen>
+    <dimen name="dimen_79">79dp</dimen>
+    <dimen name="dimen_80">80dp</dimen>
+    <dimen name="dimen_88">88dp</dimen>
+    <dimen name="dimen_120">120dp</dimen>
+
+</resources>
