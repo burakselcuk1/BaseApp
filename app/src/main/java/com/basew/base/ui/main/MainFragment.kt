@@ -19,6 +19,19 @@ class MainFragment : BaseFragment<FragmentMainBinding, MainViewModel>(
     override fun onInitDataBinding() {
         viewLifecycleOwner.lifecycleScope.launchWhenStarted {
             viewModel.pictureOfDay.collect { resource ->
+                when (resource) {
+                    is Resource.Loading -> {
+                        binding.progress.visibility = View.VISIBLE
+                    }
+                    is Resource.Success -> {
+                        binding.progress.visibility = View.GONE
+
+                    }
+                    is Resource.Error -> {
+                        Log.e("hata", resource.throwable.toString())
+                    }
+                    else -> {}
+                }
 
             }
         }
