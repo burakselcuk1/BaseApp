@@ -27,8 +27,7 @@ class MainFragment : BaseFragment<FragmentMainBinding, MainViewModel>(
                     }
                     is Resource.Success -> {
                         binding.progress.visibility = View.GONE
-                        binding.planetTitle.visibility = View.VISIBLE
-                        binding.planetTitle.text = resource.data.title.toString()
+
                     }
                     is Resource.Error -> {
                         Log.e("hata", resource.throwable.toString())
