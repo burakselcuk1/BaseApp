@@ -10,7 +10,7 @@ import androidx.lifecycle.lifecycleScope
 import com.basew.base.R
 import com.basew.base.common.Resource
 import com.basew.base.databinding.FragmentMainBinding
-import com.basew.core.BaseFragment
+import com.basew.coree.BaseFragment
 
 class MainFragment : BaseFragment<FragmentMainBinding, MainViewModel>(
     layoutId = R.layout.fragment_main,

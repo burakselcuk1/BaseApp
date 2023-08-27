@@ -16,3 +16,4 @@ rootProject.name = "base"
 include ':app'
 include ':myapplication'
 include ':core'
+include ':coree'

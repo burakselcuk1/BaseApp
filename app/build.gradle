@@ -44,7 +44,7 @@ android {
 }
 
 dependencies {
-    implementation project(path: ':core')
+    implementation project(path: ':coree')
     implementation "androidx.core:core-ktx:$versions.coreKtxVersion"
     implementation "androidx.appcompat:appcompat:$versions.appcompatVersion"
     implementation "com.google.android.material:material:$versions.materialVersion"

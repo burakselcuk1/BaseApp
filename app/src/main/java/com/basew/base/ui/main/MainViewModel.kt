@@ -3,7 +3,7 @@ package com.basew.base.ui.main
 import androidx.lifecycle.viewModelScope
 import com.basew.base.common.Resource
 import com.basew.base.ui.main.model.AstronomyPictureOfTheDayUiModel
-import com.basew.core.BaseViewModel
+import com.basew.coree.BaseViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
